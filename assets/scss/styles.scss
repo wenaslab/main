@@ -404,9 +404,6 @@ img{
         margin: auto;
         margin-top: 30%;
     }
-    .apollo{
-        width: 400px;
-    }
     .sectionTitle{
         color: var(--first-color);
         background-color: var(--hover-color);
@@ -428,10 +425,10 @@ img{
    .sectionButtoms{
         background-color: var(--hover-color);
         margin-top: 5%;
-        @media screen and (max-width: 768px){
+        // @media screen and (max-width: 768px){
             
             margin-bottom: 5%;
-        }
+        // }
     }
   
     

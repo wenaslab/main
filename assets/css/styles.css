@@ -360,9 +360,6 @@ img {
   margin: auto;
   margin-top: 30%;
 }
-.containerSection .apollo {
-  width: 400px;
-}
 .containerSection .sectionTitle {
   color: var(--first-color);
   background-color: var(--hover-color);
@@ -382,11 +379,7 @@ img {
 .containerSection .sectionButtoms {
   background-color: var(--hover-color);
   margin-top: 5%;
-}
-@media screen and (max-width: 768px) {
-  .containerSection .sectionButtoms {
-    margin-bottom: 5%;
-  }
+  margin-bottom: 5%;
 }
 
 /*# sourceMappingURL=styles.css.map */
